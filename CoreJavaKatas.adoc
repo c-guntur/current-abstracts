@@ -1,0 +1,53 @@
+= Core Java Katas
+
+== Title
+Learn Java features through Code katas
+
+== Abstract
+The workshop aims to teach code java topics using Code Katas. A Code Kata is an attempt to bring the element of practice to software development. Some code katas are 30 mins long while other may take up to 1h 30 mins.
+
+== Description
+The workshop will cover a few Java features and APIs in depth:
+
+. Java Time API.
+. Java Optional API.
+. Java Text & Date Formatter API.
+. Java Lambdas and Stream API.
+. Java Completable Futures.
+. Java Reflection/Handles API.
+
+Time permitting, Java Handles API will also be introduced as a take-away for the attendees to complete.
+
+
+=== How does one go about with this kata?
+==== Steps:
+. Run the test class(es).
+. One or more tests will fail with the test failure message.
+. Fix the failing tests by taking hints from the TODOs.
+. Repeat above steps until all tests pass.
+. Rinse and repeat (delete and checkout again, then back to Step 1) to build muscle memory.
+
+==== Overview
+The code kata test classes can have two types of test methods:
+* Solved test methods show how an invocation/access can be achieved with the traditional calls.
+* Unsolved/failing test methods which provide TODO hints that will allow the kata-taker to manually solve the exercise.
+
+== Target Audience Experience Level
+* [x] Beginner to Intermediate
+* [x] Intermediate to Advanced
+* [x] Advanced
+
+== Presentation formats
+
+Preferred: Workshop/Lab exercise - 4 hours
+
+=== Available as:
+* [x] Smaller Presentation - 60 mins
+* [x] Medium Presentation - 90 mins
+* [x] Code Kata walkthrough - 60 mins
+* [x] Smaller Workshop/Lab exercise - 60 mins
+* [x] Medium Workshop/Lab exercise - 2 hours
+
+= Speaker Bio
+
+include::AboutChandraGuntur.adoc[]
