@@ -1,0 +1,29 @@
+= Choosing the right Java Vendor and Version
+
+== Title
+An unbiased strategy for choosing a Java Version and Vendor
+
+== Abstract
+When using Java, many people used to just download Oracle’s JDK and call it a day. The world is a more complicated place these days. This session presents a vendor-neutral overview of the different Java options and support models, along with tips for choosing one. It also covers how to decide how often to update and strategies for dealing with the six-month/three-year options. Finally, it highlights some favorite features of Java 11, 12, and 13. Don’t worry, Java 13 isn’t unlucky!
+
+== Description
+When using Java, many people used to just download Oracle’s JDK and call it a day. The world is a more complicated place these days. This session presents a vendor-neutral overview of the different Java options and support models, along with tips for choosing one. It also covers how to decide how often to update and strategies for dealing with the six-month/three-year options. Finally, it highlights some favorite features of Java 11, 12, and 13. Don’t worry, Java 13 isn’t unlucky!
+
+This talk will be jointly presented by Jeanne Boyarsky and Chandra Guntur (presented by both speakers at other conferences).
+
+== Target Audience Experience Level
+* [x] Beginner to Intermediate
+* [x] Intermediate to Advanced
+* [x] Advanced
+
+== Presentation formats
+
+Preferred: Smaller Presentation - 60 mins
+
+=== Available as:
+* [x] Smaller Presentation - 60 mins
+* [x] Medium Presentation - 90 mins
+
+= Speaker Bio
+
+include::AboutChandraGuntur.adoc[]
