@@ -21,11 +21,14 @@ Examples of the usage of sun.misc.Unsafe and its newer complementary API in Var 
 
 Preferred: Presentation - 60 mins
 
-=== Also available as:
-* [x] Presentation - 60 mins
-* [x] Presentation - 90 mins
-* [x] Code Kata walkthrough
-* [x] Lab exercise - 1h
+[indent=+2]
+---
+ === Also available as:
+ * [x] Presentation - 60 mins
+ * [x] Presentation - 90 mins
+ * [x] Code Kata walkthrough
+ * [x] Lab exercise - 1h
+---
 
 = Speaker Bio
 
