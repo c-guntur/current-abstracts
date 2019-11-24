@@ -1,7 +1,7 @@
 = Alternates to Java Reflection and Usafe Usage
 
 == Title
-Alternates to Java Reflection and Unsafe usage
+Alternates to Java Reflection and Unsafe usage.
 
 == Abstract
 This session covers Method and Var Handles. Attendees can code along/download the "kata" with failing tests that need to be fixed with the provided hints. The session focuses on a live demonstration of a few tests being fixed to explain the differences between erstwhile Reflection API and the lightweight replacements introduced via Method Handles. Additionally, the session will also cover the (ab)use of sun.misc.Unsafe and its newer safer complimentary VarHandles.
