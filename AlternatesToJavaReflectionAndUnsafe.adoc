@@ -12,7 +12,7 @@ This session highlights JSR 292 (Da Vinci Machine Project), set out to ease the 
 
 Examples of the usage of sun.misc.Unsafe and its newer complementary API in Var Handles is similarly demonstrated with some code samples that will be made public for post-session offline experimentation by attendees.
 
-== Audience Experience Level
+== Target Audience Experience Level
 * [x] Beginner to Intermediate
 * [x] Intermediate to Advanced
 * [x] Advanced
