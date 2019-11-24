@@ -8,13 +8,13 @@ Chandra has been a technologist in the financial services industry since 2003 an
 |Image
 
 |Low Resolution, 72x72
-a|image::ChandraProfile72ppi.png[Chandra Guntur,100,100]
+a|image::portraits/ChandraProfile72ppi.png[Chandra Guntur,100,100]
 
 |Medium Resolution, 300x300
-a|image::ChandraProfile300ppi.png[Chandra Guntur,100,100]
+a|image::portraits/ChandraProfile300ppi.png[Chandra Guntur,100,100]
 
 |High Resolution, 600x600
-a|image::ChandraProfile600ppi.png[Chandra Guntur,100,100]
+a|image::portraits/ChandraProfile600ppi.png[Chandra Guntur,100,100]
 |===
 
 === Contact information:
