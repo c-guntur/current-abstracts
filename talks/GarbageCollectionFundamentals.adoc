@@ -1,0 +1,28 @@
+= Java's Garbage Collection
+
+== Title
+Java Garbage Collection - The Basics
+
+== Abstract
+Modern Java has a collection of sophisticated Garbage Collection patterns and models.
+
+This session will provide an overview of how basic Garbage Collection patterns and models work in Java. The presentation material includes various Regional Collector JVM options and flags for tuning GC behavior as well as new logging techniques using Java Unified Logging.
+
+Details will be shared about the new garbage collectors being introduced since Java 10, covering Shenandoah, ZGC and Epsilon.
+
+== Target Audience Experience Level
+* [*] Beginner to Intermediate
+* [x] Intermediate to Advanced
+* [x] Advanced
+
+== Presentation formats
+
+Preferred: Smaller Presentation - 60 mins
+
+=== Available as:
+* [x] Smaller Presentation - 60 mins
+* [x] Medium Presentation - 90 mins
+
+= Speaker Bio
+
+include::../AboutChandraGuntur.adoc[]
