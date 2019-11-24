@@ -1,0 +1,29 @@
+= JVMs.Compare - Benchmark Performance
+
+== Title
+
+Comparing benchmark performance of different JDK/JVMs
+
+== Abstract
+
+With the multiple options now available in the Java world, developers have a vast range of combinations when they choose the right JDK and JVM for their needs. This session will detail the benchmark performance of a java library with several combinations of JDK and JVMs.
+
+== Description
+
+GraalVM and OpenJ9 have taken the Java world by storm, given their promise of performance enhancements. With the multiple options now available in the Java world, developers have a vast range of combinations when they choose the right JDK and JVM for their needs. Most developers tend to run a limited set of relevant metrics to identify the “right mix,” and many others simply try to tweak flags in the current bundled implementation they use. This session, using both a popular Java collections library, Eclipse Collections, and a few JMH benchmarking options, presents a comparison of performance metrics on the collection API, using GraalVM, Oracle JDK 8, AdoptOpenJDK 8 with HotspotVM and OpenJ9.
+
+== Target Audience Experience Level
+* [x] Intermediate to Advanced
+* [x] Advanced
+
+== Presentation formats
+
+Preferred: Smaler Presentation - 60 mins
+
+=== Available as:
+* [x] Smaller Presentation - 60 mins
+* [x] Medium Presentation - 90 mins
+
+= Speaker Bio
+
+include::../AboutChandraGuntur.adoc[]
