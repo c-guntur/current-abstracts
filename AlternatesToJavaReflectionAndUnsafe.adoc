@@ -26,6 +26,5 @@ Preferred: Presentation - 60 mins
 * [ ] Lab exercise - 8h
 
 = Speaker Bio
-,===
+
 include::AboutChandraGuntur.adoc[]
-,===
