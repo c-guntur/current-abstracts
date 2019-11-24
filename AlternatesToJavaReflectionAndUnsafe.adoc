@@ -1,0 +1,24 @@
+= Alternates to Java Reflection and Usafe Usage
+
+== Title
+Alternates to Java Reflection and Unsafe usage
+
+== Abstract
+This session covers Method and Var Handles. Attendees can code along/download the "kata" with failing tests that need to be fixed with the provided hints. The session focuses on a live demonstration of a few tests being fixed to explain the differences between erstwhile Reflection API and the lightweight replacements introduced via Method Handles. Additionally, the session will also cover the (ab)use of sun.misc.Unsafe and its newer safer complimentary VarHandles.
+
+Java reflection has always been a subtle presence since Java 1.1 (circa 1997) but when used it does present challenges that are visible only at runtime and also subverts the "strongly typed" nature of the Java language.
+
+This session highlights JSR 292 (Da Vinci Machine Project), set out to ease the implementations of dynamic language implementation and improve their performance on the JVM; chief among them being the lightweight references to methods. Several code examples are then shown that demonstrate how a parity between the heavyweight reflection API of the yore can be achieved with a cleaner, modern and more lightweight API that is as performant as a statically linked Java call.
+
+Examples of the usage of sun.misc.Unsafe and its newer complementary API in Var Handles is similarly demonstrated with some code samples that will be made public for post-session offline experimentation by attendees.
+
+= Available presentation formats
+
+* [ ] Presentation - 30 mins
+* [x] Presentation - 60 mins
+* [x] Presentation - 90 mins
+* [ ] Code Kata walkthrough
+* [ ] Lab exercise
+
+= Speaker Bio
+include::AboutChandraGuntur.adoc[]
