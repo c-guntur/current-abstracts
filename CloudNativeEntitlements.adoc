@@ -1,0 +1,28 @@
+= Beyond Entitlements for the Cloud Native
+
+== Title
+Scalable Responsibility Management with Spring Boot and Open Policy Agent
+
+== Abstract
+A Policy Engine is a tool that allows for checking user privileges as well as evaluate a responsibility matrix based on dynamic data for a given user. A Policy Engine is not only an Entitlement Management System but also provides for functional evaluation of conditions that result in deterministic responsibilities for a given user or actor.
+
+== Description
+This session shows how to utilize Open Policy Agent with Spring Boot and HOCON to produce a responsibility management solution that scales to volume and performance needs.
+
+Some hiccups that were faced while deriving the most optimal solution are also highlighted. A short explanation of some tooling built for validating the policy files in the IDE will also be discussed.
+
+== Target Audience Experience Level
+* [x] Intermediate to Advanced
+* [x] Advanced
+
+== Presentation formats
+
+Preferred: Smaler Presentation - 60 mins
+
+=== Available as:
+* [x] Smaller Presentation - 60 mins
+* [x] Medium Presentation - 90 mins
+
+= Speaker Bio
+
+include::AboutChandraGuntur.adoc[]
