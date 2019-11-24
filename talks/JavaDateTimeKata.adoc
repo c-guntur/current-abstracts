@@ -1,0 +1,54 @@
+= Core Java Katas
+
+== Title
+Learn Java Time API features through Code katas
+
+== Abstract
+The workshop aims to teach code Java Time API using Code Katas. A Code Kata is an attempt to bring the element of practice to software development. 
+
+== Description
+The workshop will cover Java Time API features and APIs in depth:
+
+=== How does one go about with this kata?
+==== Steps:
+. Run the test class(es).
+. One or more tests will fail with the test failure message.
+. Fix the failing tests by taking hints from the TODOs.
+. Repeat above steps until all tests pass.
+. Rinse and repeat (delete and checkout again, then back to Step 1) to build muscle memory.
+
+==== Overview
+The code kata test classes can have two types of test methods:
+* Solved test methods show how an invocation/access can be achieved with the traditional calls.
+* Unsolved/failing test methods which provide TODO hints that will allow the kata-taker to manually solve the exercise.
+
+====  Note
+Attendees will need the following setup:
+
+√ Apache Maven 3.5.x or above. Tested with Apache Maven 3.5.0.
+Link: https://maven.apache.org/download.cgi
+
+√ JDK 11. Tested with OpenJDK 11
+Link: http://jdk.java.net/11/
+
+√ Your favorite Java IDE. IntelliJ IDEA Ultimate was used to develop this kata.
+
+
+== Target Audience Experience Level
+* [x] Beginner to Intermediate
+* [x] Intermediate to Advanced
+* [x] Advanced
+
+== Presentation formats
+
+Preferred: Code Kata walkthrough - 60 mins
+
+=== Available as:
+* [x] Smaller Presentation - 60 mins
+* [x] Medium Presentation - 90 mins
+* [x] Code Kata walkthrough - 60 mins
+* [x] Smaller Workshop/Lab exercise - 60 mins
+
+= Speaker Bio
+
+include::AboutChandraGuntur.adoc[]
