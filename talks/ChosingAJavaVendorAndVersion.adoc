@@ -26,4 +26,4 @@ Preferred: Smaller Presentation - 60 mins
 
 = Speaker Bio
 
-include::AboutChandraGuntur.adoc[]
+include::../AboutChandraGuntur.adoc[About Chandra Guntur]
