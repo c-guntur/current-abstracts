@@ -51,4 +51,4 @@ Preferred: Code Kata walkthrough - 60 mins
 
 = Speaker Bio
 
-include::AboutChandraGuntur.adoc[]
+include::../AboutChandraGuntur.adoc[]
