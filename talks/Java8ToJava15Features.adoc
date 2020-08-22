@@ -1,7 +1,7 @@
-= Java 8 to Java 14 - Some Notable Enhancements
+= Java 8 to Java 15 - Some Notable Enhancements
 
 == Title
-Notable feature changes since Java 8 until Java 14
+Notable feature changes since Java 8 until Java 15
 
 == Abstract
 This session shares notable changes in the Java ecosystem starting from Java 8 all the way until Java 14. No vendor-specific changes or enhancements are covered. 
@@ -11,7 +11,7 @@ Given the breadth of the topic and a time limit, this session will only cover th
 
 For instance, Java 9 introduced 150 new features: Java 9 changes focus on programmatic/syntactic changes for most part but will cover the new Java Module system JPMS, since it makes a huge impact for library developers.
 
-Similar constraints apply for Java 10, 11, 12, 13 and 14. However, post-Java 9, the release cadence of 6 months has greatly reduced the number of features delivered making the content more viable to present a larger percentage of changes.
+Similar constraints apply for Java 10, 11, 12, 13, 14 and 15. However, post-Java 9, the release cadence of 6 months has greatly reduced the number of features delivered making the content more viable to present a larger percentage of changes.
 
 == Target Audience Experience Level
 * [x] Beginner to Intermediate
