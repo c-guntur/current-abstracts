@@ -1,0 +1,43 @@
+=  IntelliJ Plugins
+
+== Title
+So, you want to build an IntelliJ Plugin?
+
+== Abstract
+IDEA Plugin styles and various common styles of IntelliJ plugins and a build tooling strategy are covered.
+
+== Description
+Productivity via plugins cannot be challenged. Working in a corporate world, the lesser the distraction from an IDE for a developer, the better. This session showcases some creative ideas for building plugins that help retain a developer focus  within the IDE. Also a strategy for SDLC via gradle builds is laid out. This is mostly a code demo with little to no presentation material.
+
+====  Note
+Attendees will need the following setup:
+
+√ Gradle 6.3.0 or above. Tested with Gradle 6.3.0.
+Link: https://gradle.org/install/
+
+√ JDK 11. Tested with OpenJDK 11
+Link: http://jdk.java.net/11/
+
+√ IntelliJ IDE. IntelliJ IDEA Ultimate was used.
+
+
+== Target Audience Experience Level
+* [x] Beginner to Intermediate
+* [x] Intermediate to Advanced
+* [x] Advanced
+
+== Presentation formats
+
+Preferred: Code walkthrough - 1 hour
+
+=== Available as:
+* [x] Smaller Presentation - 60 mins
+* [x] Medium Presentation - 90 mins
+* [x] Code Kata walkthrough - 60 mins
+* [x] Smaller Workshop/Lab exercise - 60 mins
+* [x] Medium Workshop/Lab exercise - 2 hours
+
+= Speaker Bio
+
+include::../AboutChandraGuntur.adoc[]
+
