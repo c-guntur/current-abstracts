@@ -1,5 +1,7 @@
 = Algebraic Data Types in Java
 
+*Available from Jan 2021*
+
 == Title
 Algebraic ... in Java?
 
