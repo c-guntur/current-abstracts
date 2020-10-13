@@ -1,5 +1,7 @@
 =  IntelliJ Plugins
 
+*Available from Jan 2021*
+
 == Title
 So, you want to build an IntelliJ Plugin?
 
