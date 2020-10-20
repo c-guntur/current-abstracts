@@ -1,0 +1,31 @@
+= Algebraic Data Types in Java
+
+*Available from Jan 2021*
+
+== Title
+Algebraic ... in Java?
+
+== Abstract
+This session covers Tuples, Records and Sealed Classes. Attendees can code along/download the "kata" with failing tests that need to be fixed with the provided hints. The session focuses on a live demonstration of a few tests being fixed to learn about Algebraic data types in Java.
+
+== Description
+Code samples and walkthrough of the algebraic data types and their uses. Java 14 introduced Records and Java 15 introduced Sealed types. Understanding the nuances and benefits of these algebraic data types as well as leveraging other similar sum and product types via code is intended to help the attendees better use the amazing new features being introduced.
+
+== Target Audience Experience Level
+* [x] Beginner to Intermediate
+* [x] Intermediate to Advanced
+* [x] Advanced
+
+== Presentation formats
+
+Preferred: Code Kata walkthrough
+
+=== Available as:
+* [x] Presentation - 60 mins
+* [x] Presentation - 90 mins
+* [x] Code Kata walkthrough
+* [x] Lab exercise - 1h
+
+= Speaker Bio
+
+include::../AboutChandraGuntur.adoc[]
