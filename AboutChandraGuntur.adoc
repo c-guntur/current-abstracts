@@ -1,5 +1,11 @@
 === About Chandra Guntur
-Chandra is a technologist in the financial services industry since 2003 and is programming with Java since 1998. Chandra was selected as a 2019 Java Champion. He is a Java User Group (JUG) Leader, and helps run one of the largest Java user groups, NYJavaSIG and leads the NYJavaSIG Hands-On-Workshops (HOW), conducting code workshops and creating Code Katas on core Java features. He is a frequent speaker at Java user groups, and technology conferences including Oracle CodeOne, Oracle Code NY, QCon New York, Devnexus and GIDS India. Chandra holds a Bachelor’s degree in Technology, Electrical and Electronics Engineering from Sri Venkateswara University.
+Chandra is a technologist in the financial services industry since 2003 and is programming with Java since 1998. 
+
+Chandra was selected as a 2019 Java Champion. He is a Java User Group (JUG) Leader, and helps run one of the largest Java user groups, NYJavaSIG and a founder-leader at the Garden State JUG. 
+
+Chandra conducts code workshops and Code Katas on core Java features. He is a frequent speaker at Java user groups, and technology conferences including Oracle CodeOne, Oracle Code NY, QCon New York, Devnexus, DawsCon and GIDS India. 
+
+Chandra holds a Bachelor’s degree in Technology, Electrical and Electronics Engineering from Sri Venkateswara University.
 
 === Profile Picture
 [%header,cols=2*] 
