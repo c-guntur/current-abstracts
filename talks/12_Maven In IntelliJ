@@ -1,0 +1,65 @@
+= Using Maven in IntelliJ IDEA
+
+*Available from Jan 2021*
+
+== Title
+Maven in INtelliJ
+
+== Abstract
+A hands-on demo of Maven features available in IntelliJ IDEA and how to use them to get the best outcomes.
+
+== Description
+IntelliJ IDEA is a versatile and much aored IDE for developers using JVM languages. Build tools are the bakbone of every application. IntelliJ IDEA provides for a high degree of integration with Apache Maven. The resulting features are quite powerful and increase productivity. This session will cover almost all maven features available in the IDE with usage ideas.
+
+=== What are the topics covered?
+==== Overview:
+. Create a maven project
+. Open a maven project
+. Show structure view of POM
+. Show Maven toolbar
+. Navigate to source POM from the toolbar
+. Download sources and javadoc
+. Customize maven installation
+. Customize settings and repository
+. Run life cycles
+. Create run configurations
+. Customize run configurations 
+. Share run configurations
+. Show dependencies diagram
+. Show terminal usage
+
+==== Overview
+The code kata test classes can have two types of test methods:
+* Solved test methods show how an invocation/access can be achieved with the traditional calls.
+* Unsolved/failing test methods which provide TODO hints that will allow the kata-taker to manually solve the exercise.
+
+====  Note
+Attendees will need the following setup:
+
+√ Apache Maven 3.5.x or above. Tested with Apache Maven 3.6.3.
+Link: https://maven.apache.org/download.cgi
+
+√ JDK 11 or above. Tested with OpenJDK 15
+Link: http://jdk.java.net/15/
+
+√ IntelliJ IDEA (Ultimate or Community).
+
+
+== Target Audience Experience Level
+* [x] Beginner to Intermediate
+* [x] Intermediate to Advanced
+* [x] Advanced
+
+== Presentation formats
+
+Preferred: Code Kata/Hands-on walkthrough - 60 mins
+
+=== Available as:
+* [x] Smaller Presentation - 60 mins
+* [x] Medium Presentation - 90 mins
+* [x] Code Kata/Hands-on walkthrough - 60 mins
+* [x] Smaller Workshop/Lab exercise - 60 mins
+
+= Speaker Bio
+
+include::../AboutChandraGuntur.adoc[]
