@@ -9,7 +9,7 @@ Maven in INtelliJ
 A hands-on demo of Maven features available in IntelliJ IDEA and how to use them to get the best outcomes.
 
 == Description
-IntelliJ IDEA is a versatile and much aored IDE for developers using JVM languages. Build tools are the bakbone of every application. IntelliJ IDEA provides for a high degree of integration with Apache Maven. The resulting features are quite powerful and increase productivity. This session will cover almost all maven features available in the IDE with usage ideas.
+IntelliJ IDEA is a versatile and much adored IDE for developers using JVM languages. Build tools are the backbone of every application. IntelliJ IDEA provides for a high degree of integration with Apache Maven. The resulting features are quite powerful and increase productivity. This session will cover almost all maven features available in the IDE with usage ideas.
 
 === What are the topics covered?
 ==== Overview:
