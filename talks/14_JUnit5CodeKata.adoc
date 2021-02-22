@@ -1,0 +1,51 @@
+= JUnit5 - A Code Kata
+
+*Available from May 2021*
+
+== Title
+Learn JUnt5 features through a set of code katas
+
+== Abstract
+The workshop aims to teach JUnit5 features using code katas. A code kata is an attempt to bring the element of practice to software development. 
+
+== Description
+The workshop will cover JUnit5 features and APIs in depth:
+
+=== How does one go about with this kata?
+==== Steps:
+. Fix the tests by taking hints from the TODOs.
+. Repeat above steps until all tests meet the desired behavior.
+. Rinse and repeat (delete and checkout again, then back to Step 1) to build muscle memory.
+
+==== Overview
+The code kata test classes have TODOs, HINTs and NOTEs to help understand the features and APIs of JUnit5.
+
+====  Note
+Attendees will need the following setup:
+
+√ Apache Maven 3.5.x or above. Tested with Apache Maven 3.5.0.
+Link: https://maven.apache.org/download.cgi
+
+√ JDK 11. Tested with OpenJDK 15
+Link: http://jdk.java.net/11/
+
+√ Your favorite Java IDE. IntelliJ IDEA Ultimate was used to develop this kata.
+
+== Target Audience Experience Level
+* [x] Beginner to Intermediate
+* [x] Intermediate to Advanced
+* [x] Advanced
+
+== Presentation formats
+
+Preferred: Code Kata walkthrough - 60 mins
+
+=== Available as:
+* [x] Smaller Presentation - 60 mins
+* [x] Medium Presentation - 90 mins
+* [x] Code Kata walkthrough - 60 mins
+* [x] Smaller Workshop/Lab exercise - 60 mins
+
+= Speaker Bio
+
+include::../AboutChandraGuntur.adoc[]
