@@ -1,0 +1,58 @@
+= Using Maven in IntelliJ IDEA
+
+*Available from Apr 2021*
+
+== Title
+Understanding Apache Maven
+
+== Abstract
+A part-presenttion, part demo of understnainf the various features of Apache Maven.
+
+== Description
+Apache Maven is one of the most popular build management tools for Java and related technologies. While most people simply use a few specific commands of maven, many are not very familiar with the fundamentals of Apache Maven thus missing out on using some extremely beneficial features that it can offer. This session alks throught eh building blocks, the fundamentals and the working philosophy of Apache Maven complete with pictorial representations of how Apache Maven is put together, what its individual parts mean and how convention-based builds bring about sanity to a developer/development team. 
+
+=== What are the topics covered?
+==== Topics:
+. Apache Maven basics
+. The Project Object Model (POM) and Effective POMs
+. Dependency coordinates and POM hierarchies
+. Maven Lifecycles, Phases, Plugins and Goals
+. Dependencies in Maven
+. Maven Project Object Model (POM) Reference
+. Configuring Apache Maven
+. Maven Plugins
+. Versions in Maven
+. Resources in Maven
+
+==== Overview
+The session is part-presentation and part demo showcasing the features of Apache Maven. 
+
+====  Note
+Attendees will need the following setup:
+
+√ Apache Maven 3.6.x or above. Tested with Apache Maven 3.6.3.
+Link: https://maven.apache.org/download.cgi
+
+√ JDK 11 or above. Tested with OpenJDK 15
+Link: http://jdk.java.net/15/
+
+√ IntelliJ IDEA (Ultimate or Community) - if interested in the IDE usage.
+
+== Target Audience Experience Level
+* [x] Beginner to Intermediate
+* [x] Intermediate to Advanced
+* [x] Advanced
+
+== Presentation formats
+
+Preferred: Smaller Presentation - 60 mins
+
+=== Available as:
+* [x] Smaller Presentation - 60 mins
+* [x] Medium Presentation - 90 mins
+* [ ] Code Kata/Hands-on walkthrough - 60 mins
+* [ ] Smaller Workshop/Lab exercise - 60 mins
+
+= Speaker Bio
+
+include::../AboutChandraGuntur.adoc[]
