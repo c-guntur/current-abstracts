@@ -3,7 +3,7 @@
 *Available from Jan 2021*
 
 == Title
-Maven in INtelliJ
+Maven in IntelliJ IDEA
 
 == Abstract
 A hands-on demo of Maven features available in IntelliJ IDEA and how to use them to get the best outcomes.
