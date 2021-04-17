@@ -26,10 +26,10 @@ The code includes two parts:
 ====  Note
 Attendees will need the following setup:
 
-√ Apache Maven 3.6.x or above. Tested with Apache Maven 3.6.3.
+√ Apache Maven 3.6.x or above. Tested with Apache Maven 3.6.3. +
 Link: https://maven.apache.org/download.cgi
 
-√ JDK 11. Tested with OpenJDK 15
+√ JDK 11. Tested with OpenJDK 15 +
 Link: http://jdk.java.net/15/
 
 √ Your favorite Java IDE. IntelliJ IDEA Ultimate was used to develop this kata.
