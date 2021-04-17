@@ -19,6 +19,7 @@ Create a cooking recipe with a kata for using Future and CompletableFuture. The 
 
 ==== Overview
 The code includes two parts:
+
 * Solved recipe for reference.
 * Unsolved/failing recipe for you to fix.
 
