@@ -41,7 +41,7 @@ Preferred: Presentation - 60 mins
 * [x] Presentation - 30 mins
 * [x] Presentation - 60 mins
 * [ ] Code Kata walkthrough
-* [x] Lab exercise - 1h
+* [ ] Lab exercise - 1h
 
 = Speaker Bio
 
