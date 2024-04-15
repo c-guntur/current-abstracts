@@ -3,7 +3,7 @@ Chandra is a technologist in the financial services industry since 2003 and is p
 
 Chandra was selected as a 2019 Java Champion. He is a Java User Group (JUG) Leader, and helps run one of the largest Java user groups, NYJavaSIG and a founder-leader at the Garden State JUG. 
 
-Chandra conducts code workshops and Code Katas on core Java features. He is a frequent speaker at Java user groups, and technology conferences including Oracle CodeOne, Oracle Code NY, QCon New York, Devnexus, DawsCon and GIDS India. 
+Chandra conducts code workshops and Code Katas on core Java features. He is a frequent speaker at Java user groups, and technology conferences including Oracle CodeOne, Oracle Code NY, QCon New York, Devnexus, DawsCon, Java Istanbul Days and GIDS India. 
 
 Chandra holds a Bachelor’s degree in Technology, Electrical and Electronics Engineering from Sri Venkateswara University.
 
