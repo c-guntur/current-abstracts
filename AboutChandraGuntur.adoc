@@ -12,16 +12,33 @@ Chandra holds a Bachelor’s degree in Technology, Electrical and Electronics En
 |===
 |Image Type
 |Image
+|Format
 
-|Low Resolution, 72x72
-a|image::portraits/ChandraProfile72ppi.png[Chandra Guntur,100,100]
+|High Resolution, 2048x1994
+a|image::portraits/CGuntur_600dpi_2048x1994.jpg[Chandra Guntur,100,100]
+|JPG (216 KB)
 
-|Medium Resolution, 300x300
-a|image::portraits/ChandraProfile300ppi.png[Chandra Guntur,100,100]
+|High Resolution, 2048x1994
+a|image::portraits/CGuntur_600dpi_2048x1994.png[Chandra Guntur,100,100]
+|PNG (1.7 MB)
 
-|High Resolution, 600x600
-a|image::portraits/ChandraProfile600ppi.png[Chandra Guntur,100,100]
+|Medium Resolution, 1024v997
+a|image::portraits/CGuntur_600dpi_1024x997.jpg[Chandra Guntur,100,100]
+|JPG (104 KB)
+
+|Medium Resolution, 1024v997
+a|image::portraits/CGuntur_600dpi_1024x997.png[Chandra Guntur,100,100]
+|PNG (515 KB)
+
+|Low Resolution, 512x499
+a|image::portraits/CGuntur_600dpi_512x499.jpg[Chandra Guntur,100,100]
+|JPG (36 KB)
+
+|Low Resolution, 512x499
+a|image::portraits/CGuntur_600dpi_512x499.png[Chandra Guntur,100,100]
+|JPG (148 KB)
 |===
+
 
 === Contact information:
 
