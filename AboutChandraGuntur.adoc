@@ -8,7 +8,7 @@ Chandra conducts code workshops and Code Katas on core Java features. He is a fr
 Chandra holds a Bachelor’s degree in Technology, Electrical and Electronics Engineering from Sri Venkateswara University.
 
 === Profile Picture
-[%header,cols=2*] 
+[%header,cols=3*] 
 |===
 |Image Type
 |Image
