@@ -2,6 +2,7 @@ Email not included due to GDPR concerns.
 
 # Sharat Chandar Nomination Co-Nominators
 
+1. Mala Gupta
 1. Monica Beckwith
 1. Donald Raab
 1. Rustam Mehmandarov
