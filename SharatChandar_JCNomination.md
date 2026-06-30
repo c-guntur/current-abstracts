@@ -43,13 +43,12 @@ Sharat is the Sherpa of the Java Community.
 
 #### Supporting links
 
-- <https://inside.java/u/SharatChander/> 
-- <https://www.infoq.com/news/2025/03/day-three-java-one-2025/> 
-- <https://dev.java/community/javaone-2026/speakers/sharat-chander/> 
+- https://inside.java/u/SharatChander
+- https://www.infoq.com/news/2025/03/day-three-java-one-2025
+- https://dev.java/community/javaone-2026/speakers/sharat-chander
 - http://marxsoftware.blogspot.com/2011/10/javaone-2011-java-community-keynote.html 
-- <https://blogs.oracle.com/javaone/thursday-community-keynote:-by-the-community,-for-the-community> 
-- <https://blogs.oracle.com/java/our-world-moved-by-java>
-- <https://inside.java/2020/06/14/sharat-on-25th-celebrations
+- https://blogs.oracle.com/java/our-world-moved-by-java
+- https://inside.java/2020/06/14/sharat-on-25th-celebrations
 - https://redmonk.com/blog/2025/11/20/rmc-java-30-sharat-chander 
 - https://inside.java/2022/08/03/podcast-025/ 
 
@@ -149,10 +148,10 @@ What really stands out is the human impact. On the Duke's Corner podcast, Sharat
 
 #### Supporting links
 
-- <https://www.infoq.com/news/2025/03/day-three-java-one-2025/>
-- <https://blogs.oracle.com/java/our-world-moved-by-java>
-- <https://dukescorner.libsyn.com/sharat-chander-celebrating-the-java-community>
-- <https://grisanzio.com/52-sharat-chander-txt/>
+- https://www.infoq.com/news/2025/03/day-three-java-one-2025
+- https://blogs.oracle.com/java/our-world-moved-by-java
+- https://dukescorner.libsyn.com/sharat-chander-celebrating-the-java-community
+- https://grisanzio.com/52-sharat-chander-txt
 
 
 ### Java Champions are able to evangelise and/or inspire other developers.
@@ -161,9 +160,9 @@ With years of developer evangelism across 6 continents, Sharat has established u
 
 Through podcast and media leadership, Sharat has amplified his community influence, appearing on prominent developer podcasts including Duke's Corner: "Celebrating the Java Community" (December 2024), A Bootiful Podcast: "Java community legend Sharat Chander" (September 2023), Duke's Corner: "Tis the season of thanks!" (2023), and the Wicked Good Development JUG panel discussion (July 2025). These long-form conversations have allowed him to share deep insights on community building, Java's technical direction, and the human stories behind the platform's success, reaching audiences who value authentic, substantive dialogue about technology and community.
 
-#### Supporting link
+#### Supporting links
 
-- <https://dukescorner.libsyn.com/sharat-chander-celebrating-the-java-community>
-- <https://spring.io/blog/2023/09/21/a-bootiful-podcast-java-community-legend-sharat-chander/>
-- <https://dukescorner.libsyn.com/sharat-chander-tis-the-season-of-thanks>
-- <https://www.sonatype.com/blog/wicked-good-development-jug-aka-the-java-user-group>
+- https://dukescorner.libsyn.com/sharat-chander-celebrating-the-java-community
+- https://spring.io/blog/2023/09/21/a-bootiful-podcast-java-community-legend-sharat-chander
+- https://dukescorner.libsyn.com/sharat-chander-tis-the-season-of-thanks
+- https://www.sonatype.com/blog/wicked-good-development-jug-aka-the-java-user-group
